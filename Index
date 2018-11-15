@@ -1,0 +1,25 @@
+<!Doctype Html>
+<Html <Lang="Pt-Br">
+	<Head>
+		<title>Huxtter - Inicio</title>
+			<Link Rel="Shortcut icon" Href="Designer/IconH.png" Type="Img/png">
+			<Link Rel="stylesheet"  Href="Style.css">
+			<link Rel="stylesheet" Href="https://fonts.googleapis.com/css?family=Anton">
+				<meta Charset="utl-8">
+			</Head>
+				<body>
+					<Div Class="MenuName">
+						<ul>
+							<a href="https://www.youtube.com/watch?v=7cGe02YTi3k"Img><img Src="Designer/Huxtter.png"Alt="Huxtter"Width="300px"></a> 
+						</ul>
+					</Div>
+						<hr>
+							<Nav Class="Menu">
+								<ul>
+									<li><a Href="https://www.youtube.com/channel/UCjz_TvlpIoL7LyuJBcGpCWQ?view_as=subscriber">Canal YouTube</a></li>
+									<li><a Href="Index1.Html">Desenhos</a></li>
+									<li><a Href="Index2.html">Downloads</a></li>
+								</ul>
+							</div>
+					</Body>
+			</html>
